@@ -1,10 +1,10 @@
 # GTAV_MultiView-SyntheticDataset-DomainAdaptation
 ## Breif Intro:  
 The project is implemented with python and pytorch. Base model is Cyclegan and forward & backward SSIM losses are embedded. And some initial results are presented.  
-<img src="https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/results/GTAV2Real/test_latest/images/1618489974_fake.png" width="50px"/>
-<img src="https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/results/GTAV2Real/test_latest/images/1618489974_real.png" width="50px"/>
-<img src="https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/results/GTAV2Real/test_latest/images/1618497624_fake.png" width="50px"/>
-<img src="https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/results/GTAV2Real/test_latest/images/1618497624_real.png" width="50px"/>
+<img src="https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/results/GTAV2Real/test_latest/images/1618489974_fake.png" width="120px"/>
+<img src="https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/results/GTAV2Real/test_latest/images/1618489974_real.png" width="120px"/>
+<img src="https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/results/GTAV2Real/test_latest/images/1618497624_fake.png" width="120px"/>
+<img src="https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/results/GTAV2Real/test_latest/images/1618497624_real.png" width="px"/>
 
 ## Excutation:  
 Please follow the [CycleGAN.ipynb](https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/CycleGAN.ipynb) to excute the training and testing. As the code was excuted on colab, the path should be configured specifically. 
