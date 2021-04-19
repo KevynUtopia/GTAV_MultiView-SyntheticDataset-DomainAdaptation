@@ -7,7 +7,7 @@ Stage 1:
 <img src="https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/results/GTAV2Real/test_latest/images/1618489974_real.png" width="150px"/>
 <img src="https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/results/GTAV2Real/test_latest/images/1618497624_fake.png" width="150px"/>
 <img src="https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/results/GTAV2Real/test_latest/images/1618497624_real.png" width="150px"/>  
-Virtual results seem not good
+Comment: Virtual results seem not good
 
 ## Excutation:  
 Please follow the [CycleGAN.ipynb](https://github.com/KevynUtopia/GTAV_MultiView-SyntheticDataset-DomainAdaptation/blob/main/CycleGAN.ipynb) to excute the training and testing. As the code was excuted on colab, the path should be configured specifically. 
